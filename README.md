@@ -1,4 +1,4 @@
-# Welcome To Geolage's Blog
+# Welcome To Sample Blog Page
 
 This is a blog demo on github pages.
 
